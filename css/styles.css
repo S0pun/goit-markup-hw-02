@@ -15,6 +15,7 @@ a {
 
 .logo {
   font-family: 'Raleway', sans-serif;
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -115,6 +116,7 @@ a {
 
 .our_team-title {
   font-size: 36px;
+  text-transform: capitalize;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
@@ -156,6 +158,7 @@ a {
 
 .footer-link {
   font-family: 'Raleway', sans-serif;
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -168,8 +171,45 @@ a {
 }
 
 .footer-subtitle {
+  font-size: 16px;
+  line-height: 1.50;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+
+.section-our_portfolio {
+
+}
+.our_portfolio-title {
+font-size: 36px; 
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: #2e2f42;
+}
+
+.our_portfolio-list {
+
+}
+
+.our_portfolio-item-title {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.20;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.our_portfolio-item {
+  background-color: #fff;
+}
+.our_portfolio-item-image {
+
+}
+.our_portfolio-item-text {
 font-size: 16px;
 line-height: 1.50;
 letter-spacing: 0.02em;
-color: #f4f4fd;
+color: #434455;
 }
